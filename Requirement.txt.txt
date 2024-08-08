@@ -1,0 +1,5 @@
+numpy 
+pickle
+streamlit==1.37.0
+streamlit-option-menu
+scikit-learn
